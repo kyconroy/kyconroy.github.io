@@ -1,0 +1,5 @@
+[{
+	"packageFamilyName" : "Microsoft.FakeApp_8wekyb3d8bbwe",
+	"paths" : ["*"]
+	"excludePaths" : ["/settings"]
+}]
